@@ -1,0 +1,20 @@
+{
+  "name": "automatyzacja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arozynek/automation-cdv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arozynek/automation-cdv/issues"
+  },
+  "homepage": "https://github.com/arozynek/automation-cdv#readme"
+}
